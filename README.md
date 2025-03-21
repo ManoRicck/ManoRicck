@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is HENRIQUE EXPEDITO
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é HENRIQUE EXPEDITO
 =========================================================================================================================================
 
 Desenvolvedor Frontend e Web Designer
@@ -6,12 +6,15 @@ Desenvolvedor Frontend e Web Designer
 
 Sou desenvolvedor frontend especializado em criação de sites, trabalhando de perto com web designers para transformar ideias em experiências digitais incríveis. Tenho grande interesse em explorar novas ideias criativas e inovadoras, sempre em busca de soluções que atendam às necessidades dos usuários e superem as expectativas dos clientes. Com um olhar atento aos detalhes e foco na qualidade, me comprometo em entregar projetos que não apenas funcionam bem, mas também encantam visualmente. Meu compromisso é sempre evoluir e acompanhar as tendências do mercado, garantindo que meu trabalho seja relevante e impactante.
 
-* 🌍  I'm based in Brasil
-* ✉️  You can contact me at [henriqueexpedito.pro@gmail.com](mailto:henriqueexpedito.pro@gmail.com)
-* 🧠  I'm learning React e Node.js
-* 🤝  I'm open to collaborating on Projetos com desenvolvimento web
+* 🌍  Estou baseado no Brasil
+* ✉️  Você pode entrar em contato comigo pelo e-mail [henriqueexpedito.pro@gmail.com](mailto:henriqueexpedito.pro@gmail.com)
+* 🧠  Estou aprendendo React e Node.js
+* 🤝  Estou aberto a colaborar no Projetos com desenvolvimento web
 
-### Skills
+<a href="https://www.github.com/ManoRicck" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Habilidades
 
 
 <p align="left">
@@ -19,10 +22,22 @@ Sou desenvolvedor frontend especializado em criação de sites, trabalhando de p
 </p>
 
 
-### Socials
+### Sociais
 
 <p align="left"> <a href="https://www.github.com/ManoRicck" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Emblemas
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ManoRicck"><img src="https://github-readme-stats.vercel.app/api?username=ManoRicck&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ManoRicck's GitHub stats" /></a>
+
+<a href="http://www.github.com/ManoRicck"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoRicck&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/ManoRicck"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ManoRicck&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ManoRicck" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoRicck&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/ManoRicck/1-Dodge-Viper-3d" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=1-Dodge-Viper-3d&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
