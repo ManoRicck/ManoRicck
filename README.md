@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
 <p align="left">
 
   <a href="https://github.com/ManoRicck" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" 
       width="36" height="36" alt="GitHub" title="GitHub" style="margin-right: 8px;"/>
   </a>
   
