@@ -46,7 +46,7 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
   </a>
   
   <a href="https://www.instagram.com/rick_2037/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" height="32" alt="Instagram" title="Instagram" style="color: #E4405F;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="32" height="32" alt="Instagram" title="Instagram" style="color: #E4405F;" />
   </a>
   
   <a href="https://www.linkedin.com/in/henrique-expedito-63805b279/" target="_blank" rel="noreferrer">
