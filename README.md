@@ -37,7 +37,8 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
 <p align="left">
 
   <a href="https://discord.com/users/henriqueexpedito" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="32" height="32" alt="Discord" title="Discord" style="color: #5865F2;" />
+    <img src="https://e7.pngegg.com/pngimages/842/992/png-clipart-discord-computer-servers-teamspeak-discord-icon-video-game-smiley-thumbnail.png" 
+      width="32" height="32" alt="Discord" title="Discord" style="color: #5865F2;" />
   </a>
   
   <a href="https://github.com/ManoRicck" target="_blank" rel="noreferrer">
