@@ -38,15 +38,14 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
 
 <p align="left">
 
-
-  <a href="https://discord.com/users/henriqueexpedito" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/b18b66d8-8cff-4c4b-b1df-5236a340f2fd" 
-      width="36" height="36" alt="Discord" title="Discord" style="margin-right: 8px;"/>
-  </a>
-  
   <a href="https://github.com/ManoRicck" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
       width="36" height="36" alt="GitHub" title="GitHub" style="margin-right: 8px;"/>
+  </a>
+  
+  <a href="https://discord.com/users/henriqueexpedito" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/b18b66d8-8cff-4c4b-b1df-5236a340f2fd" 
+      width="36" height="36" alt="Discord" title="Discord" style="margin-right: 8px;"/>
   </a>
   
   <a href="https://www.instagram.com/rick_2037/" target="_blank" rel="noreferrer">
@@ -61,7 +60,7 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
 </p>
 
 
-<b>Minhas estatísticas do GitHub</b>
+### Minhas estatísticas do GitHub
 
 <a href="http://www.github.com/ManoRicck"><img src="https://github-readme-stats.vercel.app/api?username=ManoRicck&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ManoRicck's GitHub stats" /></a>
 
@@ -69,6 +68,6 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
 
 <a href="https://github.com/ManoRicck" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoRicck&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositorios</b>
+### Top Repositorios
 
 <div width="100%" align="center"><a href="https://github.com/ManoRicck/12-Pokedex" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=12-Pokedex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
