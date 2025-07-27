@@ -44,11 +44,28 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
 
 <b>Minhas Estatísticas do GitHub</b>
 
-<a href="http://www.github.com/ManoRicck"><img src="https://github-readme-stats.vercel.app/api?username=ManoRicck&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ManoRicck's GitHub status" /></a>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-<a href="http://www.github.com/ManoRicck"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoRicck&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <div style="flex: 1; min-width: 48%;">
+    <a href="https://github.com/ManoRicck">
+      <img src="https://github-readme-stats.vercel.app/api?username=ManoRicck&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" />
+    </a>
+  </div>
 
-<a href="https://github.com/ManoRicck" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoRicck&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Linguagens" /></a>
+
+  <div style="flex: 1; min-width: 48%;">
+    <a href="https://github.com/ManoRicck">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoRicck&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </div>
+
+
+  <div style="width: 100%; margin-top: 10px;">
+    <a href="https://github.com/ManoRicck">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoRicck&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </a>
+  </div>
+</div>
 
 <b>Top Repositories</b>
 
