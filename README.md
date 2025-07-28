@@ -72,4 +72,6 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
 
 ### Top Repositorios
 
-<div width="100%" align="center"><a href="https://github.com/ManoRicck/12-Pokedex" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=12-Pokedex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/ManoRicck/12-Pokedex" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=12-Pokedex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68&hide_border=false&locale=en" /></a></div><br/>
