@@ -61,13 +61,21 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
 
 <div width="100%" align="center">
   
-</a><a href="https://github.com/ManoRicck/01-Dodge_Viper_3d" ><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=01-Dodge_Viper_3d&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/ManoRicck/01-Dodge_Viper_3d">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=01-Dodge_Viper_3d&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68&locale=en" />
+</a>
 
-<div width="100%" align="center"><a href="https://github.com/ManoRicck/05-Kimetsu_no_yaiba_Hashiras" ><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=05-Kimetsu_no_yaiba_Hashiras&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ManoRicck/05-Kimetsu_no_yaiba_Hashiras">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=05-Kimetsu_no_yaiba_Hashiras&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68&locale=en" />
+</a>
 
 <br /><br /><br />
 <br /><br /><br />
 
-<a href="https://github.com/ManoRicck/09-Hollow_Knight"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=09-Hollow_Knight&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/ManoRicck/09-Hollow_Knight">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=09-Hollow_Knight&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68&locale=en" />
+</a>
 
-<a href="https://github.com/ManoRicck/12-Pokedex"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=12-Pokedex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<a href="https://github.com/ManoRicck/12-Pokedex">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=12-Pokedex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68&locale=en" />
+</a>
