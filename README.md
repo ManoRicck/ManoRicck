@@ -9,8 +9,8 @@ Desenvolvedor Frontend e Web Designer
 
 <br/>
 
-
-* 🌍  Estou baseado no Brasil
+* 🖥️ Veja meu portfólio [ManoRick](https://portifolio-manorick.vercel.app/)
+* 🌍  Estou baseado no Brasil - Pernambuco
 * ✉️  Você pode entrar em contato comigo pelo e-mail [henriqueexpedito964@gmail.com](mailto:henriqueexpedito964@gmail.com)
 * 🧠  Estou aprendendo React e Node.js
 * 🤝  Estou aberto a colaborar no Projetos com desenvolvimento web
