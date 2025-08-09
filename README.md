@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
 ### Sociais
   
   <a href="https://github.com/ManoRicck" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="36" height="36" alt="Github" style="margin-right: 8px;" /></a>
-  <a href="https://discord.com/users/henriqueexpedito" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b18b66d8-8cff-4c4b-b1df-5236a340f2fd" width="36" height="36" alt="Discord" style="margin-right: 8px;" /></a>
+  <a href="https://discord.com/users/880941558403326002" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b18b66d8-8cff-4c4b-b1df-5236a340f2fd" width="36" height="36" alt="Discord" style="margin-right: 8px;" /></a>
   <a href="https://www.instagram.com/manoricck137/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="36" height="36" alt="Instagram" style="margin-right: 8px;" /></a>
   <a href="https://www.linkedin.com/in/henrique-expedito-63805b279/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="Linkdien" style="margin-right: 8px;" /></a>
 
