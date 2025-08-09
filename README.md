@@ -1,7 +1,7 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é HENRIQUE EXPEDITO
 =========================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?weight=700&size=32&color=FFFFFF&pause=800&center=false&width=435&lines=Desenvolvedor+Frontend;Web+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&size=32&color=FFFFFF&pause=500&center=false&width=450&lines=🚀Desenvolvedor+Frontend;🎨Web+Designer)](https://git.io/typing-svg)
 -------------------------------------
 <img align="left" width="180px" src="https://github.com/user-attachments/assets/2d7a0e07-8308-45c6-b53a-1de0e8894792" />
 <br />
