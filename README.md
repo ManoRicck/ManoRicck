@@ -57,29 +57,3 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
 <a href="http://www.github.com/ManoRicck"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoRicck&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=0A4D68" /></a>
 
 <a href="https://github.com/ManoRicck"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoRicck&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Top Repositorios
-
-<br>
-
-<div width="100%" align="center">
-  
-<a href="https://github.com/ManoRicck/01-Dodge_Viper_3d">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=01-Dodge_Viper_3d&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68&locale=en" />
-</a>
-
-<a href="https://github.com/ManoRicck/12-Pokedex">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=12-Pokedex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68&locale=en" />
-</a>
-
-<br /><br /><br />
-<br /><br /><br />
-
-<a href="https://github.com/ManoRicck/13-Sentinela">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=13-Sentinela&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68&locale=en" />
-</a>
-
-<a href="https://github.com/ManoRicck/14-BioEnergy">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ManoRicck&repo=14-BioEnergy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&border_color=0A4D68&locale=en" />
-</a>
-
