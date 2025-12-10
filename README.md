@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/78ba38f8-0fdf-45de-88ea-d577508551e7" width="36" height="36" alt="Firebase" /></a>
   <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a>
-
+  <a href="https://www.php.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/bd3dd1c4-0266-4c93-82aa-9f93b66fc098" width="60" height="60" alt="PHP" title="PHP"/></a>
 
 
 ### Sociais
