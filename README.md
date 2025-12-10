@@ -12,7 +12,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 * 🖥️ Veja meu portfólio [ManoRick](https://portifolio-manorick.vercel.app/)
 * 🌍  Estou baseado no Brasil - Pernambuco
 * ✉️  Você pode entrar em contato comigo pelo e-mail [henriqueexpedito964@gmail.com](mailto:henriqueexpedito964@gmail.com)
-* 🧠  Estou aprendendo React e Node.js
+* 🧠  Estou aprendendo PHP e Banco de Dados
 * 🤝  Estou aberto a colaborar no Projetos com desenvolvimento web
 
 <a href="https://www.github.com/ManoRicck" target="_blank" rel="noreferrer"><img
